@@ -3,6 +3,8 @@
 
 Bem-vindo ao portfólio de Lana Ribeiro! Este projeto foi criado usando Vite, React, Tailwind, JSX, Three.js, HTML e CSS para exibir os trabalhos e habilidades de Lana de maneira interativa e visualmente atraente.
 
+#Link Site: https://portifolio-lana-ribeiro.vercel.app/
+
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
