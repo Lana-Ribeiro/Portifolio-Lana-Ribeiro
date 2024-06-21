@@ -1,7 +1,7 @@
 
 # Portfólio de Lana Ribeiro
 
-Bem-vindo ao portfólio de Lana Ribeiro! Este projeto foi criado usando React, Tailwind, JSX, Three.js, HTML e CSS para exibir os trabalhos e habilidades de Lana de maneira interativa e visualmente atraente.
+Bem-vindo ao portfólio de Lana Ribeiro! Este projeto foi criado usando Vite, React, Tailwind, JSX, Three.js, HTML e CSS para exibir os trabalhos e habilidades de Lana de maneira interativa e visualmente atraente.
 
 ## Tecnologias Utilizadas
 
